@@ -4,7 +4,7 @@ import Resumeimg from '../assets/resume.jpg'
 
 const Resume = () => {
   const config = {
-    link:""
+    link:"https://pdflink.to/9401d293/"
   }
   return (
     <section className='flex flex-col  md:flex-row bg-secondary px-5' id='resume' >
