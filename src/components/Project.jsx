@@ -1,6 +1,6 @@
 import React from 'react';
 import webimg1 from '../assets/bookstore.jpg';
-import webimg2 from '../assets/ecommerce.jpg';
+import webimg2 from '../assets/bookstore.avif';
 import webimg3 from '../assets/website-blog.jpg';
 
 const Project = () => {
