@@ -11,11 +11,11 @@ const Project = () => {
         description: 'A Bookstore Website. Built with MERN Stack',
         link: 'https://yandex.com/'
       },
-      // {
-      //   image: webimg2,
-      //   description: 'An Ecommerce Website. Built with MERN stack',
-      //   link: ''
-      // },
+      {
+        image: webimg2,
+        description: 'An Ecommerce Website. Built with MERN stack',
+        link: 'https://book-storing-app.vercel.app/'
+      },
       // {
       //   image: webimg3,
       //   description: 'Food-Ecommerce website with MERN Stack',
