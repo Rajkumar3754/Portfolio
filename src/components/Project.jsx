@@ -32,10 +32,10 @@ const Project = () => {
       </div>
 
       <div className="w-full py-5">
-        <div className="flex flex-col md:flex-row px-10 gap-5 justify-center">
+        <div className="flex flex-col md:flex-row px-10 gap-5 justify-start">
           {config.projects.map((project, index) => (
             <div key={index} className="relative flex-shrink-0 w-[300px] h-[200px]">
-              <img src={project.image} className="w-full h-full object-cover" alt={project.description} />
+              <img src={project.image} className="w-full h-full  object-center" alt={project.description} />
               <div className="absolute left-0 right-0 bottom-0 top-0 bg-secondary opacity-0 hover:opacity-100 duration-500 flex flex-col items-center justify-center p-4">
                 <p className="text-center mb-4">{project.description}</p>
                 <a href={project.link} className="mt-auto">
