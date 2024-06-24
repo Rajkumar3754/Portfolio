@@ -9,12 +9,12 @@ const Project = () => {
       {
         image: webimg1,
         description: 'A Bookstore Website. Built with MERN Stack',
-        link: 'https://yandex.com/'
+        link: 'https://book-storing-app.vercel.app/'
       },
       {
         image: webimg2,
         description: 'An Ecommerce Website. Built with MERN stack',
-        link: 'https://book-storing-app.vercel.app/'
+        link: ''
       },
       // {
       //   image: webimg3,
