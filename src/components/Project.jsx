@@ -14,7 +14,7 @@ const Project = () => {
       {
         image: webimg2,
         description: 'An Ecommerce Website. Built with MERN stack',
-        link: ''
+        link: 'https://ecommerce-psi-ashy-26.vercel.app/'
       },
       // {
       //   image: webimg3,
