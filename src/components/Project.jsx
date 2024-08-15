@@ -28,7 +28,7 @@ const Project = () => {
     <section className='flex flex-col py-20 px-5 justify-center bg-primary text-white' id='project'>
       <div className='w-full flex flex-col justify-center px-5'>
         <h1 className='text-4xl text-white border-b-4 border-secondary mb-5 w-[150px] font-bold'>Projects</h1>
-        <p>Here are a few of my top projects, crafted with React, MERN stack, and Tailwind CSS.</p>
+        <p>Here are a few of my top projects, crafted with MERN stack and Tailwind CSS.</p>
       </div>
 
       <div className="w-full py-5">
