@@ -4,9 +4,9 @@ import aboutimg from '../assets/about.png'
 
 const About = () => {
   const config = {
-    line1:'Hi,My name is Rajkumar.Im a Full stack web developer. I can built beautiful website with React.js and Tailwinds Css',
-    line2:'I am proficient in Frontend skills like React.js Redux,Redux Tool Kit,Axios,Tailwinds Css and many more',
-    line3:'In backend I know Node.js,Express.js ,MongoDB,and Mongoose'
+    line1: " A Full-Stack Web Developer with a passion for designing sleek websites using React.js and Tailwind CSS.",
+  line2: "I'm proficient in frontend tools like React.js, Redux, and Tailwind CSS, creating smooth and responsive user interfaces.",
+  line3: "I also specialize in backend development, leveraging Node.js, Express.js, and MongoDB to build reliable and efficient applications."
   }
 
   
